@@ -1,7 +1,7 @@
 ﻿namespace ilkOdevSuhedaYayla;
 
 class Program
-{
+{ 
     static void Main(string[] args)
     {
     /////////////BİRİNCİ SORU
@@ -118,7 +118,7 @@ class Program
 
          //----------------------------//
 
-         
+
      ///////////YEDINCI SORU
      
             Console.WriteLine("Lütfen öğrenci sayısını giriniz: ");
