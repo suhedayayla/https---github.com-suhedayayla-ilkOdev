@@ -1,0 +1,14 @@
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/bin/Debug/net8.0/ilkOdevSuhedaYayla
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/bin/Debug/net8.0/ilkOdevSuhedaYayla.deps.json
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/bin/Debug/net8.0/ilkOdevSuhedaYayla.runtimeconfig.json
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/bin/Debug/net8.0/ilkOdevSuhedaYayla.dll
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/bin/Debug/net8.0/ilkOdevSuhedaYayla.pdb
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.AssemblyInfoInputs.cache
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.AssemblyInfo.cs
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.csproj.CoreCompileInputs.cache
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.dll
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/refint/ilkOdevSuhedaYayla.dll
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.pdb
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ilkOdevSuhedaYayla.genruntimeconfig.cache
+/Users/suhedayayla/Desktop/ilkOdevSuhedaYayla/obj/Debug/net8.0/ref/ilkOdevSuhedaYayla.dll
